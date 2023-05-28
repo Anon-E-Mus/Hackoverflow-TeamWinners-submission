@@ -27,6 +27,10 @@ python3 -m http.server
 
 http://localhost:8000/index.html
 
+For Landing Page:
+
+#Change directory to Landing
+cd Landing
 
 LANDING PAGE:
 
