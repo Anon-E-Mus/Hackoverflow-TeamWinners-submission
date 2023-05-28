@@ -1,1 +1,0 @@
-# Hackoverflow-TeamWinners-submission
