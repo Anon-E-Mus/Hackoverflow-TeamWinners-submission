@@ -5,7 +5,7 @@ Deployed the side scrolling game on itch.io:
 
 [https://anand-o.itch.io/world-of-chaotica](https://anand-o.itch.io/world-of-chaotica)
 
-Deployed the landing page on Github Pages:
+Github Repo of the landing page on Github Pages:
 
 [https://github.com/MilderBronze/chaotica](https://github.com/MilderBronze/chaotica)
 
