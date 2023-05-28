@@ -5,6 +5,10 @@ Deployed the side scrolling game on itch.io:
 
 [https://anand-o.itch.io/world-of-chaotica](https://anand-o.itch.io/world-of-chaotica)
 
+Deployed Landing Page on Vercel:
+
+[https://hackathon-project-olive.vercel.app/](https://hackathon-project-olive.vercel.app/)
+
 Github Repo of the landing page on Github Pages:
 
 [https://github.com/MilderBronze/chaotica](https://github.com/MilderBronze/chaotica)
